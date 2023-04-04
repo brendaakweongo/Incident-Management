@@ -5,7 +5,7 @@
 - Analyse incidents on products of a company.
 
 ### Data Set
-- [HR dataset](https://github.com/brendaakweongo/Incident-Management/blob/main/Incidents.xlsx).
+- [Incident Management dataset](https://github.com/brendaakweongo/Incident-Management/blob/main/Incidents.xlsx).
 
 ### Tools
 - Power BI for data visualisation
