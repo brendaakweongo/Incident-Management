@@ -8,7 +8,7 @@
 - [Incident Management dataset](https://github.com/brendaakweongo/Incident-Management/blob/main/Incidents.xlsx).
 
 ### Tools
-- Python(Numpy, Pandas, Matplotlib) - View [Jupyter Notebook](https://github.com/brendaakweongo/Customers/blob/main/Python/incidents.ipynb)
+- Python(Numpy, Pandas, Matplotlib) - View [Jupyter Notebook](https://github.com/brendaakweongo/Incident-Management/blob/main/Python/Incidents.ipynb)
 - Power BI for data visualisation
 
 ### Dashboard
